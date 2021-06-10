@@ -1,0 +1,35 @@
+_repo: Anthony-Wayne-1745-1796_65397
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Downes, Randolph C. (Randolph Chandler)
+    alias: Downes, Randolph Chandler
+    birthdate: 1901
+    gutenberg_agent_id: '53315'
+    url: http://www.gutenberg.org/2009/agents/53315
+  - agent_name: Public Library of Fort Wayne and Allen County
+    aliases:
+    - Fort Wayne (Ind.). Public Library of Fort Wayne and Allen County
+    - Ft. Wayne Public Library
+    - Allen County (Ind.). Public Library of Fort Wayne and Allen County
+    - Emerine J. Hamilton Reading Room
+    - Fort Wayne Public Library
+    gutenberg_agent_id: '53025'
+    url: http://www.gutenberg.org/2009/agents/53025
+    wikipedia: https://en.wikipedia.org/wiki/Allen_County_Public_Library
+description: ''
+gutenberg_issued: '2021-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'Wayne, Anthony, 1745-1796'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Biography'
+- GITenberg
+title: Anthony Wayne, 1745-1796
+url: http://www.gutenberg.org/ebooks/65397
